@@ -18,6 +18,7 @@ This repository is a collection of file modifications specifically created for t
 This modpack is maintained by Carhenia for [Nebula Network](https://nebulanetwork.net)  
 # Latest Downloads
 - [CurseForge](https://www.curseforge.com/minecraft/modpacks/aphmau-mc-diaries)  
+- Modrinth (Coming Soon!)
 
 We highly recommend you use a third party launcher such as GDLauncher instead of Overwolf.  
 
@@ -26,5 +27,13 @@ We highly recommend you use a third party launcher such as GDLauncher instead of
 - [Discord](https://discord.gg/9ZxeWesrzz)  
 - [Website](https://nebulanetwork.net/)  
 - [Wiki](https://wiki.nebulanetwork.net/) 
+
+# Testing
+If you're interested in helping us test the modpack, we would greatly appreciate your participation. The most effective way to assist us is by playing the modpack, identifying any bugs you come across, and giving us feedback based on your experience.
+
+Here are some specific aspects we would like testers to focus on, you can report these back to us by visiting the "Issues" tab and submitting a form, or visiting us on our discord.
+- Bug Reporting
+- Adding/Removing Certain Mods
+- Optimisation
 # Terms and conditions
 All files are modifications of .toml, .cfg and .json files provided by the original mods. All rights belong to the respective mod authors. 
