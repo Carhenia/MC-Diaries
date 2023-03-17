@@ -13,6 +13,8 @@
 This modpack was originally created by Nebula Network in 2015 aims to replicate the setup used by Aphmau in her popular 2015 Minecraft series, Minecraft Diaries. The modpack is designed to provide fans of the series with a similar experience by including a variety of mods that were used by Aphmau during the early days of the series.
 The modpack is a fan-made creation and is not affiliated with Aphmau in any way. Nebula Network has no official association with Aphmau or her production team. The modpack is purely a labor of love and an attempt to recreate the early production of the Minecraft Diaries series for fans.
 
+- This Modpack has been updated to newer versions of Minecraft! Visit the repository for [MC Diaries Revisited](https://github.com/Carhenia/MC-Diaries-Revisited) for more information. 
+
 This repository is a collection of file modifications specifically created for the custom modpack. These modifications include changes to various configuration files such as .toml, .cfg, .txt, .json, and others. These files have been modified to ensure that the modpack functions correctly and provides the desired gameplay experience.
 
 This modpack is maintained by Carhenia for [Nebula Network](https://nebulanetwork.net)  
@@ -36,4 +38,4 @@ Here are some specific aspects we would like testers to focus on, you can report
 - Adding/Removing Certain Mods
 - Optimisation
 # Terms and conditions
-All files are modifications of .toml, .cfg and .json files provided by the original mods. All rights belong to the respective mod authors. 
+All files are modifications of .toml, .cfg, .properties, .json, .yml or other .txt file formats provided by the original mods. All rights belong to the respective mod authors.
