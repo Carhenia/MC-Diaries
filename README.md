@@ -1,4 +1,4 @@
-<p align="center"><img src="https://wiki.nebulanetwork.net/modpack-resources/mcdiaries-title.png" alt="Logo" width=""></p>  
+<p align="center"><img src="https://raw.githubusercontent.com/Carhenia/carhenia.github.io/main/images/mcdiaries_title.png" alt="Logo" width=""></p>  
 
 <h1 align="center"> Aphmau Minecraft Diaries + Modpack <br> 
 
